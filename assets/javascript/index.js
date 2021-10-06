@@ -8,105 +8,105 @@ window.onload = function() {
             id: 1,
             quanty: 1,
             productName: "Product1 shirt pant boys girls",
-            imagePath: "../assets/img/1.jpg",
+            imagePath: "assets/img/1.jpg",
             price: "1000"
         },
         {
             id: 2,
             quanty: 1,
             productName: "Product2",
-            imagePath: "../assets/img/2.png",
+            imagePath: "assets/img/2.png",
             price: "2000"
         },
         {
             id: 3,
             quanty: 1,
             productName: "Product3",
-            imagePath: "../assets/img/3.jpg",
+            imagePath: "assets/img/3.jpg",
             price: "3000"
         },
         {
             id: 4,
             quanty: 1,
             productName: "Product4",
-            imagePath: "../assets/img/4.jpg",
+            imagePath: "assets/img/4.jpg",
             price: "600"
         },
         {
             id: 5,
             quanty: 1,
             productName: "Product5",
-            imagePath: "../assets/img/5.jpg",
+            imagePath: "assets/img/5.jpg",
             price: "800"
         },
         {
             id: 6,
             quanty: 1,
             productName: "Product6",
-            imagePath: "../assets/img/6.jpg",
+            imagePath: "assets/img/6.jpg",
             price: "700"
         },
         {
             id: 7,
             quanty: 1,
             productName: "Product7",
-            imagePath: "../assets/img/7.jpg",
+            imagePath: "assets/img/7.jpg",
             price: "7000"
         },
         {
             id: 8,
             quanty: 1,
             productName: "Product8",
-            imagePath: "../assets/img/8.jpg",
+            imagePath: "assets/img/8.jpg",
             price: "8000"
         },
         {
             id: 9,
             quanty: 1,
             productName: "Product9",
-            imagePath: "../assets/img/9.png",
+            imagePath: "assets/img/9.png",
             price: "9000"
         },
         {
             id: 10,
             quanty: 1,
             productName: "Product10 shirt color",
-            imagePath: "../assets/img/10.jpg",
+            imagePath: "assets/img/10.jpg",
             price: "1000"
         },
         {
             id: 11,
             quanty: 1,
             productName: "Product11",
-            imagePath: "../assets/img/11.jpg",
+            imagePath: "assets/img/11.jpg",
             price: "1100"
         },
         {
             id: 12,
             quanty: 1,
             productName: "Product12",
-            imagePath: "../assets/img/12.jpg",
+            imagePath: "assets/img/12.jpg",
             price: "1200"
         },
         {
             id: 13,
             quanty: 1,
             productName: "Product13",
-            imagePath: "../assets/img/13.jpg",
+            imagePath: "assets/img/13.jpg",
             price: "1300"
         },
         {
             id: 14,
             quanty: 1,
             productName: "Product14",
-            imagePath: "../assets/img/14.jpg",
+            imagePath: "assets/img/14.jpg",
             price: "1400"
         },
         {
             id: 15,
             quanty: 1,
             productName: "Product15",
-            imagePath: "../assets/img/15.jpg",
+            imagePath: "assets/img/15.jpg",
             price: "1500"
         }
     ];
