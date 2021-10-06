@@ -6,5 +6,4 @@ QTec Solution Software company give a task to complete with HTML, CSS, JavaScrip
  
  ## This Project done for Qtec Solution
  
- ##there will be no update 
- #with javascript file structure export and import files
+ ##Completed!!
