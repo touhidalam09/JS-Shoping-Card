@@ -6,4 +6,4 @@ QTec Solution Software company give a task to complete with HTML, CSS, JavaScrip
  
  ## This Project done for Qtec Solution
  
- ## One update with file structure 
+ #Will be One update with file structure 
