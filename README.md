@@ -1,5 +1,5 @@
-# Qtec-Assignment
-QTec Solution Software company give a task to complete with HTML, CSS, JavaScript. It's a Shopping Card design and add to cart checkout side, also can remove the item. Better understand clicked live demo: 
+# Assignment
+This task completed with HTML, CSS, JavaScript. It's a Shopping Card design and add to cart checkout side, also can remove the item. Better understand clicked live demo: 
 
 
  ### LIVE DEMO : https://touhidalam09.github.io/Qtec-Assignment/
@@ -9,6 +9,4 @@ QTec Solution Software company give a task to complete with HTML, CSS, JavaScrip
  ## Pic2 added Product
  ![Capture1](https://user-images.githubusercontent.com/50386486/136146622-792f933e-7e3b-4f7e-b31c-d9ffcd5ead3d.PNG)
  
- ## This Project done for Qtec Solution
- 
- #Will be One update with file structure 
+ ## This Project done.
