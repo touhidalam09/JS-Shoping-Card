@@ -2,7 +2,7 @@
 This task completed with HTML, CSS, JavaScript. It's a Shopping Card design and add to cart checkout side, also can remove the item. Better understand clicked live demo: 
 
 
- ### LIVE DEMO : https://touhidalam09.github.io/Qtec-Assignment/
+ ### LIVE DEMO : https://touhidalam09.github.io/JS-Shoping-Card/
  ## Pic1 All product show
  ![Capture](https://user-images.githubusercontent.com/50386486/136146307-bddc815a-642e-40a2-a831-997dfca84f0f.PNG)
  
